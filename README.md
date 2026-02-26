@@ -2,18 +2,13 @@
 
 Welcome to the **Full-Stack Web Development Bootcamp** repository!
 
-This repository contains **lecture notes, exercises, and mini-projects** for a **34-day full-stack course**, covering:
+This GitHub repository serves as a comprehensive **educational hub** for a **34-day full-stack web development programme**. The curated curriculum guides learners through essential front-end technologies like **HTML, CSS, and React**, while also covering back-end systems using **Python and Django**. Students can access a variety of practical resources, including **lecture notes, interactive exercises, and modular mini-projects** designed to build professional competence.
 
-* **HTML & CSS** – structure, styling, and responsive design
-* **Git** – version control and collaboration
-* **JavaScript & React** – interactive frontends
-* **Python & Django** – backend logic
-* **Wagtail CMS** – production-ready content management
+The repository structure organises lessons **sequentially**, allowing learners to track progress from fundamental concepts to advanced content management with **Wagtail CMS**. By offering a clear learning roadmap and open-source licensing, this resource provides an accessible pathway for individuals to master the entire software development lifecycle.
 
 ---
 
 ## 🗺 Bootcamp Roadmap
-
 
 > The roadmap highlights all phases, day ranges, and major topics. Each day links to detailed notes in Markdown.
 
@@ -38,20 +33,23 @@ This repository contains **lecture notes, exercises, and mini-projects** for a *
 ```
 
 * Each Markdown file contains **lecture notes, exercises, and mini-projects** for that day.
-* `ROADMAP.md` provides a **text-based roadmap** with all 34 days.
-* `assets/bootcamp-timeline.png` is the visual timeline for the full course.
+* `ROADMAP.md` provides a **text-based roadmap** covering all 34 days.
+* `assets/bootcamp-timeline.png` visually represents the full course timeline.
 
 ---
 
 ## 📝 How to Use
 
 1. Start with the [ROADMAP](./Roadmap.md) to see the full course structure.
+
 2. Follow the course **sequentially**, from Day 1 → Day 34.
+
 3. Practice **hands-on coding** in your local environment:
 
    * HTML/CSS in the browser
    * Python/Django in VSCode / PyCharm / Jupyter Notebook
    * React in Node.js / Vite / Create React App
+
 4. Use **Git** daily to commit your work and track progress.
 
 ---
@@ -62,7 +60,7 @@ This repository contains **lecture notes, exercises, and mini-projects** for a *
 * **Blog Manager** (Python & Django)
 * **Portfolio / CMS site** (Wagtail)
 
-> Each day includes **guided exercises** building toward full-stack applications.
+> Each day includes **guided exercises** that build toward full-stack applications.
 
 ---
 

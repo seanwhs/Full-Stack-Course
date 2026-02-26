@@ -14,7 +14,6 @@ This repository contains **lecture notes, exercises, and mini-projects** for a *
 
 ## 🗺 Bootcamp Roadmap
 
-![Full-Stack Bootcamp Timeline](./assets/bootcamp-timeline.png)
 
 > The roadmap highlights all phases, day ranges, and major topics. Each day links to detailed notes in Markdown.
 
@@ -46,7 +45,7 @@ This repository contains **lecture notes, exercises, and mini-projects** for a *
 
 ## 📝 How to Use
 
-1. Start with the [ROADMAP](./ROADMAP.md) to see the full course structure.
+1. Start with the [ROADMAP](./Roadmap.md) to see the full course structure.
 2. Follow the course **sequentially**, from Day 1 → Day 34.
 3. Practice **hands-on coding** in your local environment:
 
@@ -78,7 +77,7 @@ This repository contains **lecture notes, exercises, and mini-projects** for a *
 
 ## 📌 Quick Links
 
-* [Full Roadmap](./ROADMAP.md)
+* [Full Roadmap](./Roadmap.md)
 * [Day 1 – Web Dev Fundamentals](./1-Day1-Web-Dev-Fundamentals.md)
 * [Days 2–4 – HTML Deep Dive](./2-Day2-HTML-Deep_Dive.md)
 * [Days 5–7 – CSS Mastery](./3-Day5-CSS-Mastery.md)
